@@ -44,7 +44,7 @@ Investigating the core principles of randomness and how to correctly model neutr
   - Applying data from the simulations to understand ideal material characteristics.
   - Libraries predominantly used: numpy, matplotlib and numba.
 
-## <ins> Project 3- Geolocation: (ongoing) </ins>
+## <ins> Project 3- Geolocation (in progress): </ins>
 An ongoing project that seeks to allow for the understanding and visualisation behind how GPS and geolcation are used and optimised to allow for modern day life.
 - Project aims:
     - Basic geometric calculation and visualisation of how GPS towers allow for an object's location in 2D.
